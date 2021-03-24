@@ -29,5 +29,10 @@ https://www.hackadda.com/post/2020/5/17/using-orb-slam-ros-to-map-the-world/
 
 
 
-5단계  error
+5단계  RPG 궤적 평가 SLAM / VIO 정확도 평가 방법
+
+https://blog.csdn.net/Lianjie_Xue/article/details/113811380
+
+
+5단계 error
 https://www.programmersought.com/article/1174975129/
