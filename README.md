@@ -4,6 +4,8 @@
 
 데이터파일 : https://fpv.ifi.uzh.ch/datasets/
 
+-for6,45_9 주의
+
 
 0단계 요구조건 
 
@@ -33,6 +35,11 @@ https://www.hackadda.com/post/2020/5/17/using-orb-slam-ros-to-map-the-world/
 
 https://blog.csdn.net/Lianjie_Xue/article/details/113811380
 
+6단계 error 수정
 
-5단계 error
 https://www.programmersought.com/article/1174975129/
+
+7단계    
+
+
+https://docs.openvins.com/gs-datasets.html
